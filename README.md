@@ -2,8 +2,7 @@
 
 My name is **Jennifer Goijman** and I am a Full Stack Developer. 👩🏻‍💻
 
-I’m currently working at [One Beyond](https://www.one-beyond.com/) 🔭 
-
+I’m currently working at [Journi](https://journi.uk/) 🔭 
 
 
 ### Fun facts about me:
